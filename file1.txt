@@ -1,3 +1,4 @@
 xxx
 NEW FEATURE!
 bla stash
+stash 2
